@@ -1,0 +1,3 @@
+CREATE TABLE "GCG_4920_Quality" (
+ "UserID" VARCHAR(8),
+ "CCANO" VARCHAR(7) );
